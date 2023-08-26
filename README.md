@@ -1,4 +1,4 @@
-# Read me generator
+# README Generator
 
   ## Description 
   This application was created to generate a high-quality, professional README depending on a series of questions a user answers in their command line using Node.js
@@ -10,13 +10,14 @@
     - [License](#License)
 
    ## Installation
-   node and npm
+  The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module.
 
   ## Usage 
   Use inquirer from your command line to answer questions about your project.
+  https://drive.google.com/file/d/1Q5737CRL-AN4uczm7oinzF0N06UN3Xli/view
   
   ## Credit
-  n/a
+  Eugene Isingizwe
   
   
 ## MIT License 
@@ -44,12 +45,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   n/a
 
   ## How to Contribute
-  yes
+  Contributors should read the installation section.
 
   ## Test
-  na
+ npm test
 
   ## Question 
-  eugeneisingizwe95@hotmail.com
-  eugeneisingizwe
-
+ If you have any questions about this projects, please contact me directly at eugeneisingizwe95@hotmail.com. You can view more of my projects at https://github.com/eugeneisingizwe.
